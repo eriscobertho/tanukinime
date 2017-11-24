@@ -1,0 +1,2 @@
+# tanukinime
+file js
